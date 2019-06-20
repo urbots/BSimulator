@@ -1,2 +1,2 @@
 # BSimulator
-Basic Simulator using 3D graphics by Opengl and a simple physics engine
+Basic Simulator is a 3D simulator that uses Opengl and a simple physics engine
