@@ -1,7 +1,7 @@
 #ifndef BOUDNING_SPHERE_INCLUDED_H
 #define BOUDNIGN_SPHERE_INCLUDED_H
 
-#include "math/math3d.h"
+#include "math3d.h"
 #include "intersectData.h"
 class BoundingSphere
 {
